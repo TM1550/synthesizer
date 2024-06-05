@@ -1,0 +1,1 @@
+gcc wave.c filter.c music.c main.c -o synthesizer

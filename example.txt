@@ -1,0 +1,4 @@
+types 1 3 types 2 4 types 3 5 volumes 1 0.7 volumes 2 0.3 volumes 3 0.5 coefficients 2 2 attack 0.2 decay 0.1 
+sustaintime 0.2 slope 0.05 release 0.05 breakpoint 0.6 sustain 0.8 typefilter 1 bandwidth 20 transiditionwidth 30
+B6 D7 B6 F#6 B6 F#6 silence 0.4
+B6 D7 B6 F#6 B6 F#6 silence 0.4
